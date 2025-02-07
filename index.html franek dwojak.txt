@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kraków 3g</title>
+	</head>
+	<body>
+		<h1>Kraków moje miasto</h1>
+		<h2>Kraków moje miasto</h2>
+		<h3>Kraków moje miasto</h3>
+		<h4>Kraków moje miasto</h4>
+		<h5>Kraków moje miasto</h5>
+		<h6>Kraków moje miasto</h6
+		<p>
+			<b>Kraków, Stołeczne Królewskie Miasto Kraków </i> -
+			miasto na prawach powiatu położone w południowej Polsce 
+			nad Wisłą, drugie co do liczby mieszkańców[1]. Formalna 
+			stolica Polski do <i><u>1795</u></i> roku i miasto 
+			koronacyjne oraz nekropolia królów Polski. Od 1000 
+			roku nieprzerwanie stolica diecezji krakowskiej 
+			(jednej z pięciu w ówczesnej Polsce), a od 1925
+			archidiecezji i metropolii.
+
+		</p>
+		<hr>
+		<h2> Jedziemy do Krakowa!<h2>
+		<P>
+			Wisła – polskich rzek królowa<br>
+			Od lat płynie wzdłuż Krakowa<br>
+			Sto tajemnic w sobie chowa<br>
+			Wisła – polskich rzek królowa!<br>
+			<br>
+			To jest miasto ukochane<br>
+			Przez turystów uwielbiane<br>
+			Bardzo często odwiedzane<br>
+			Moje miasto ukochane!<br>
+			<i>Kalina Rokosz</i><br>
+			<a href="https://muzycznakurtyna.pl/wierszyk/jedziemy-do-krakowa-wierszyk-o-krakowie/">Pełna wersja wiersza, kliknij tutaj!</a>
+		</p>
+		<img src="krakow.jpg" alt="Obraz Krakowa, kolaż">
+		<p>Ciekawe miejsca Krakowa</p>
+		<ul>
+			<li>Mapa</li>
+			<li>Ciekawe miejsca</li>
+			<li>Zabytki</li>
+			<li>Sport</li>
+		</ul>
+		<ol>
+			<li>Mapa</li>
+			<li>Ciekawe miejsca</li>
+			<li>Zabytki</li>
+			<li>Sport</li>
+		</ol>
+		
+		<table border=1>
+			<tr>
+				<thy>Komorka I</th>
+				<th>Komorka II</th>
+				<th>Komorka III</th>
+			</tr>
+			<tr>
+				<td>Komorka I</td>
+				<td>Komorka II</td>
+				<td>Komorka III</td>
+			</tr>
+			<tr>
+				<td>Komorka I</td>
+				<td>Komorka II</td>
+				<td>Komorka III</td>
+			</tr>
+		</table>
+		
+	</body>
+</html>
